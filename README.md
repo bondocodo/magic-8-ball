@@ -17,6 +17,21 @@ Files in this repo:
 | `PROMPT_V2.MD` | Current spec, synced to the shipped app |
 | `README.md` | This breakdown |
 | `PROGRESS.md` | Session progress tracker (local only, gitignored) |
+| `screenshots/` | Captured from the app in headless Edge during verification |
+
+## Screenshots
+
+| Energy — idle | Energy — shake (liquid exposed, swirling) | Energy — reveal |
+|---|---|---|
+| ![Energy idle](screenshots/energy-idle.png) | ![Energy shake](screenshots/energy-shake.png) | ![Energy reveal](screenshots/energy-reveal.png) |
+
+| Coffee — idle | Coffee — shake | Coffee — reveal |
+|---|---|---|
+| ![Coffee idle](screenshots/coffee-idle.png) | ![Coffee shake](screenshots/coffee-shake.png) | ![Coffee reveal](screenshots/coffee-reveal.png) |
+
+| Mid-spin "8" flash (2nd shake) | Energy, 1440 px | Coffee, 1440 px | Coffee, 375 px |
+|---|---|---|---|
+| ![Mid-spin](screenshots/spin-mid.png) | ![Energy wide](screenshots/energy-wide.png) | ![Coffee wide](screenshots/coffee-wide.png) | ![Coffee narrow](screenshots/coffee-375.png) |
 
 ## Architecture
 
